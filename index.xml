@@ -1,14 +1,406 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>growth on My New Hugo Site</title>
     <link>https://evolution-ant.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in growth on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 09:57:47 +0800</lastBuildDate>
     
 	<atom:link href="https://evolution-ant.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Todo</title>
+      <link>https://evolution-ant.github.io/daily/todo/</link>
+      <pubDate>Tue, 28 Dec 2021 16:22:07 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/daily/todo/</guid>
+      <description>探索
+开源  多语言
+多语言发布，消息 多语言字段混乱  cms
+解决翻译 bug 关联产品 发布时间 作者  job 架构</description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>https://evolution-ant.github.io/psychology/questions/</link>
+      <pubDate>Thu, 02 Dec 2021 10:26:03 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/psychology/questions/</guid>
+      <description>1：“如果有人一直说个不停，你完全插不上话，掉个东西到地上（钥匙，笔之类的），你弯腰下去捡，然后开始说话。这样，你就可以神不知鬼不觉的打断对方，并且不被他发现。”
+2：“如果有人一直来你办公桌旁边烦你，你继续跟他讲话，但是起身，一起走回他的办公桌。之前有个老板就很会这招。他会把你带回你的办公桌，然后你还纳闷，我怎么回来了。”
+3：“当一群人大笑的时候，每个人都会看自己最喜欢的人。”
+4：“如果有人对你发火，而你保持镇定，他们可能会更生气。但之后他们会为自己感到羞愧。”
+5：“在面试之前，提前到达面试地点，在外面跟陌生人聊20分钟天。这会让你的大脑感觉自己对这个环境是熟悉的，从而让你更有自信。”
+6：“如果你突然想起N年前出的丑，并且感觉很丢脸的时候。停下来想想看到那件事的一个人，你能想起来发生在他身上的那些丢脸的事吗？可能不会。同样的，没人会记得你的那些丢脸的时刻。”
+7：“如果你对学习一样技巧（一种乐器或一门外语等等）完全没有动力，告诉你自己：好，我坐下来，就学5分钟。很多时候，你最后会坐不止5分钟。就算只坐了5分钟，那也总比试都没试好。”
+8：“人们会把你用在别人身上的形容词跟你联系在一起。这种现象叫“无意识特征转移”。也就是说，如果你说一个人很真诚，很善良，人们会把这些特质联系到你身上。如果你总是在背地里说别人的坏话，人们也会把这些负面的评价联系到你身上。”
+9：“如果你感觉有人在看你，你可以看下自己的手表或者戴手表的位置。如果那人在看你，他也会下意识的看看自己的手腕/手表。”
+10：“还有一种方法是，你可以打哈欠。然后看看那人有没有同样打哈欠。如果他也打了，那他可能真的在看你。因为哈欠是会传染的。”
+11：“如果有人想在很多人面前让你出丑，你可以对他非常有礼貌，这样会让他停止这种行为或者让他自己看起来很傻。”
+12：“如果你感觉上司要在开会的时候对你开火了，坐的离他近一点。说一个离你很近的人的坏话或对他发飙是非常不舒服的。结果？他的语气可能会柔和一点。”
+13：“学习和记住某件事最好的方法是解释给别人听。当你解释给别人时，你会尽量精简。这样会帮助你记住要点和重要信息。”
+14：“如果你有拖延症，但又有任务急需完成。你可以在睡觉前想想这件事。这会让你的大脑在精神上对此做好准备，开始规划一条完成任务的路线。这样当你真正开始做的时候，就简单多了。”
+15：“这是一个有趣的小实验，当你和某人聊天的时候，挑选他们说的其中一个词。每次说到这个词的时候，你就点头，或者做一些积极的动作。然后你就会发现，他开始经常说这个词。”
+16：“想要在刚认识的人面前表现的友好而自信？尝试着记住他们瞳孔的颜色。当然，你不需要跟他们提起这事。当你尝试这种方法的时候，你跟他眼神交流的频率刚好会让你显得友好而自信。”
+17：“如果你希望某人对你坦诚，但他只对你说了其中一部分的时候，保持沉默并看着他的眼睛一会。”
+18：“如果你在某个活动或行动之前很紧张，不要去咬指甲或抽烟，可以尝试嚼口香糖，我们的大脑很奇怪，当我们在吃东西的时候，它会感觉我们是安全的。”
+19：“如果你现在有些焦虑，眼神交流让你感觉压力山大，你可以尝试看对方双眼的中间。这同样会让你显得友好，自信。”
+20：“孩子不爱吃蔬菜？不要直接问他们要不要吃西兰花？（或任何一种蔬菜）你可以问他们要3块还是4块某种蔬菜（数量由你定）。这会他们感觉自己是成年人，可以做决定，同时又能自愿吃下蔬菜。”
+21：“心情低落，不开心？尝试假笑，让你的大脑以为你真的很开心。人的大脑和身体会同时交换反馈。最后，假笑会跟真笑一样影响类似的神经网络。这也就意味着，假笑（或其他任何一种表达开心的方式）可以帮助你改善心情。（当然，这是针对偶尔的情绪低落，如果是长期抑郁，那就不要假笑了，请寻求专业的帮助。）”
+22：“注意脚。脚也是身体语言的一部分。比如，当你靠近一个人，对方只是把身体转向你，并没有把脚转向你，可能是他更愿意独处。当你跟一个人在对话的时候，当他的脚已经指向别处，可能他已经想走了。”
+23：“有一种心理学现象叫富兰克林效应。具体说来就是，当你找一个人帮你个小忙的时候，会让对方产生他喜欢你的心理。“那些帮过你的人比你帮过的人更愿意再帮你一次。”
+24：“不要做中间的那个人。你去面试的时候，尽量让自己第一个或最后一个进去面试。因为人们对头和尾记得比较清楚，中间的很多人就会趋向模糊。”
+25：“尝试着记住你周边的事物，看一圈，然后闭上眼想象你刚看到的东西，再把眼睛睁开，看你只记对了多少东西，又有多少记错了。这会增强我们的记忆力和想象力。”
+26：“如果要找东西，尝试从右往左看。因为如果你按照平时的习惯从左看向右，眼睛会自动略过一些东西。反方向看比较累，但可以注意到更多细节。”
+27：“如果你问了一个问题，希望对方能同意你，在说的时候，微微点头。这在心理学上被称为镜像效应，如果你发出积极的信号，人们更有可能赞同你。”</description>
+    </item>
+    
+    <item>
+      <title>Plugins</title>
+      <link>https://evolution-ant.github.io/collection/plugins/</link>
+      <pubDate>Thu, 25 Nov 2021 11:08:13 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/collection/plugins/</guid>
+      <description>   名称 连接 功能     SuperCopy 超级复制 https://chrome.google.com/webstore/detail/supercopy-enable-copy/onepmapfbjohnegdmfhndpefjkppbjkm/related?hl=zh-CN 一键破解js方式的禁止复制网站。一键破解css方式的禁止复制网站。   Vimium https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=zh-CN Vim   Dark Reader https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN 适用于任何网站的黑暗主题。   Chrono下载管理器 https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn?hl=zh-CN 做Chrome浏览器中最好的下载管理器   Adblock Plus - 免费的广告拦截器 https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN 享受没有恼人广告的网络世界。   Web Scraper - Free Web Scraping https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?utm_source=chrome-ntp-icon 爬虫    </description>
+    </item>
+    
+    <item>
+      <title>Write Methods</title>
+      <link>https://evolution-ant.github.io/grow/methods/</link>
+      <pubDate>Tue, 23 Nov 2021 10:21:40 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/grow/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semrush</title>
+      <link>https://evolution-ant.github.io/develop/semrush/</link>
+      <pubDate>Sun, 07 Feb 2021 11:31:02 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/semrush/</guid>
+      <description> 目前总配额 760 万
+https://zh.semrush.com/billing-admin/profile/subscription/api-units
+超出部分的付费方案 $50/1M
+API 花费情况 按照返回的数据量进行计算的 , 每个接口都不一样 , 一般每行 10-100 之间
+比如 , 查询相关关键词 , 每行花费 20
+https://api.semrush.com/?type=phrase_fullsearch&amp;amp;key=be82aeeb91cd5670e6040b30927e0cab&amp;amp;phrase=seo&amp;amp;export_columns=Ph,Nq,Cp,Co,Nr,Td,Fk&amp;amp;database=us&amp;amp;display_limit=10&amp;amp;display_sort=nq_desc&amp;amp;display_filter=%2B|Nq|Lt|1000  10 行数据 , 每行 20 , 花费 200 , 这里我们限制只返回 10 条 , 一般总数据会有上万条
+待确认的问题  要查询的 keyword 总量 要查询的 domain 总量 100 数据分别保存多久 数据多久更新一次 ( 每天 ) 查看相关关键词 , 大约会查看多少条  </description>
+    </item>
+    
+    <item>
+      <title>Today</title>
+      <link>https://evolution-ant.github.io/develop/today/</link>
+      <pubDate>Fri, 05 Feb 2021 10:20:06 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/today/</guid>
+      <description> 调试 dvdtalk 500 的问题 修改 username 大小写 , 空格 . 的转换 增加更新 user 功能 查看 unext 如何重头播放 整理 cms 接口文档   </description>
+    </item>
+    
+    <item>
+      <title>Totheweb</title>
+      <link>https://evolution-ant.github.io/develop/totheweb/</link>
+      <pubDate>Wed, 03 Feb 2021 10:25:38 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/totheweb/</guid>
+      <description>ToTheWeb 规模 20w 次
+API 免费 无免费 api
+收费 https://totheweb.com/services/#pricing
+爬取方案 模拟网页端的 ajax 请求
+暂时没有测试出多次会被封禁 , 通过代理应该可以解决
+最终方案 爬虫</description>
+    </item>
+    
+    <item>
+      <title>Moz</title>
+      <link>https://evolution-ant.github.io/develop/moz/</link>
+      <pubDate>Fri, 29 Jan 2021 16:33:57 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/moz/</guid>
+      <description>Moz 规模 20w 次
+API 免费 无免费 api
+收费 https://moz.com/products/local/pricing
+爬取方案 一般连续爬取 5 次就会封禁 ip
+最终方案 使用一款类似产品 ahrefs , 我们已经购买过 , 可以直接使用 api</description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://evolution-ant.github.io/develop/mysql/</link>
+      <pubDate>Tue, 05 Jan 2021 10:42:20 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/mysql/</guid>
+      <description>替换某个字段里的特定字符串
+UPDATE narticles SET content = REPLACE(content, &#39;2020&#39;, &#39;2021&#39;); UPDATE narticles SET title = REPLACE(title, &#39;2020&#39;, &#39;2021&#39;); UPDATE narticles SET meta_info = REPLACE(meta_info, &#39;2020&#39;, &#39;2021&#39;);  完整复制一张表
+CREATE TABLE narticles LIKE narticles_2021; INSERT INTO narticles SELECT * FROM narticles_2021;  </description>
+    </item>
+    
+    <item>
+      <title>Crawler Js</title>
+      <link>https://evolution-ant.github.io/develop/crawler-js/</link>
+      <pubDate>Wed, 02 Dec 2020 16:51:28 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/crawler-js/</guid>
+      <description>抓取网页上按钮的点击事件 https://www.summarizetool.com/summarization-tool/#ipg_title
+想要拿到 summarize 的点击事件
+使用火狐浏览器 , 找到元素 , 检测元素 , event 就是对应的点击事件
+如何 console 里引入第三方库 拦截请求 chrome 调试技巧 https://juejin.cn/post/6844903732874854414
+Es5- es6
+https://www.jianshu.com/p/647950617a6d</description>
+    </item>
+    
+    <item>
+      <title>Mac_shortcut</title>
+      <link>https://evolution-ant.github.io/develop/mac_shortcut/</link>
+      <pubDate>Fri, 27 Nov 2020 10:36:45 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/mac_shortcut/</guid>
+      <description>   key work      space page down    cmd + ` switch tab between same app    cms+1 搜索后聚焦光标          </description>
+    </item>
+    
+    <item>
+      <title>Ambition</title>
+      <link>https://evolution-ant.github.io/grow/ambition/</link>
+      <pubDate>Mon, 23 Nov 2020 17:53:44 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/grow/ambition/</guid>
+      <description> 北宋大儒张载曾写过著名的“横渠四句”，为天地立心，为生民立命，为往圣继绝学，为万世开太平。
+志不立，天下无可成之事 &amp;ndash; 王阳明
+孩儿立志出乡关，学不成名誓不还，埋骨何须桑梓地，人生无处不青山 &amp;ndash; 毛泽东
+若志趣不远，心不在焉，虽学无成 &amp;ndash; 张载
+立志、勤学、改过、责善
+ </description>
+    </item>
+    
+    <item>
+      <title>England Bicycle Team</title>
+      <link>https://evolution-ant.github.io/grow/england-bicycle-team/</link>
+      <pubDate>Mon, 23 Nov 2020 15:59:03 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/grow/england-bicycle-team/</guid>
+      <description>🇳🇿 🚴🏻‍♂️ 故事 2003 是英国职业自行车运动重大意义的一年 , 他聘请了戴夫·布雷斯福德担任其绩效总监
+在此之前 , 英国职业自行车已经碌碌无为近百年 , 110 年没有一个英国人在环法自行车赛中得过奖牌 , 甚至欧洲最大的自行车制作商之一都拒绝向车队出售自行车
+戴夫·布雷斯福德说他们要在 5 年内赢得环法自行车赛冠军 , 结果他们只用了 3 年就成功了 , 之后几乎统治了自行车比赛
+那么他们是怎么做的呢 ?
+设备
+ 重新设计了自行车车座 , 坐起来更舒服 在轮胎上涂抹酒精 , 增加抓地力 穿上电热式紧身裤 , 让肌肉在骑车时维持理想温度 在风动测试不同的布料 , 让室外比赛的选手换穿室内比赛服 , 因为那更轻 , 跟符合空气力学 甚至把运动卡车的内壁漆成白色 , 方便发现细小的尘埃 , 防止影响赛车  选手
+ 邀请专业的外科医生教导如何正确洗手 , 减少感冒的几率 为选手选择能带来最佳睡眠品质的枕头和床垫 测试不同的按摩油 , 看哪种让肌肉最快恢复 使用生物反馈感应器监控每个选手对不同训练的反应  如此看似微不足道的改变 , 竟然能成就如此非凡的成果 , 因为竞技比赛分秒必争 , 每个细节都是至关重要的 , 边际收益法则</description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://evolution-ant.github.io/collection/videos/</link>
+      <pubDate>Mon, 23 Nov 2020 15:24:13 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/collection/videos/</guid>
+      <description>项目 地址     Web端H.265播放器研发解密 https://www.mdeditor.tw/pl/2BBP   Chromium https://github.com/chromium/chromium/tree/master/media#playback   音视频开发从入门到出家-流媒体原理 https://www.jianshu.com/p/d336a054b003   流媒体加密 https://segmentfault.com/a/1190000010471256   Web 视频播放的那些事儿 https://zhuanlan.zhihu.com/p/126673473   雷神 csdn https://blog.csdn.net/leixiaohua1020/article/list/3?t=1   Html5 video https://www.w3.org/2010/05/video/mediaevents.html   zgao js 解密字幕 https://zgao.top/js%E8%B0%83%E8%AF%95%E4%B9%8B%E7%A0%B4%E8%A7%A3%E6%9F%90%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%AD%97%E5%B9%95%E6%96%87%E4%BB%B6%E5%8A%A0%E5%AF%86/   widevine 解密原理 https://fidusinfosec.com/breaking-content-protection-on-streaming-websites/   electron vue https://molunerfinn.com/electron-vue-1/#Electron%E7%AE%80%E8%A6%81%E4%BB%8B%E7%BB%8D   Electron + Puppeteer + Robotjs 实现工作自动化 https://zhuanlan.zhihu.com/p/197737856   supertest    https://wizardforcel.gitbooks.io/electron-doc/content/tutorial/using-pepper-flash-plugin.html    网易云 https://github.</description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>https://evolution-ant.github.io/collection/ideas/</link>
+      <pubDate>Mon, 23 Nov 2020 15:21:39 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/collection/ideas/</guid>
+      <description>项目 地址 描述 分类     CTOLib 代码库 https://www.ctolib.com/categories/go-text-processing.html     叽喳・Giki https://www.v2ex.com/t/680279#reply40 https://iiiii.li/ 简短的博客 , 全平台 文字   side idea http://sideidea.com/ &amp;ldquo;独立开发者/远程工作者&amp;rdquo; 盈利案例 网站   Bubble https://bubble.io/ https://bubble.io/page?name=index&amp;amp;id=meta_public&amp;amp;tab=tabs-1 图形化创建网站的工具 建站   国外有趣设计网站 https://influencermarketinghub.com/social-media-sites/      https://support.apple.com/en-us/HT204434     Happy Hacking Keyboard Settings and Layout https://hhkeyboard.us/wp-content/uploads/2018/11/HHKB-Settings_and_Layout-1.pdf     爬虫博客 http://barranzi.com/2021/02/scrapy%E7%88%AC%E8%99%AB%E6%A1%88%E4%BE%8B1-%E7%88%AC%E5%8F%96%E5%8D%9A%E5%AE%A2%E5%9B%AD%E6%96%B0%E9%97%BB%E7%89%88%E5%9D%97%E8%AF%A6%E6%83%85%E9%A1%B5-%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%AF%87/     😩「能不能好好说话？」 拼音首字母缩写翻译工具 https://github.</description>
+    </item>
+    
+    <item>
+      <title>Vscode</title>
+      <link>https://evolution-ant.github.io/develop/vscode/</link>
+      <pubDate>Mon, 23 Nov 2020 15:04:43 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php Config</title>
+      <link>https://evolution-ant.github.io/develop/php-config/</link>
+      <pubDate>Mon, 23 Nov 2020 14:54:09 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/php-config/</guid>
+      <description>启动 apache 服务 sudo apachectl start  重启命令
+sudo apachectl restart  停止命令
+sudo apachectl stop  编辑 http.conf 配置文件 sudo vim /etc/apache2/httpd.conf  找到 LoadModule php5_module libexec/apache2/libphp5.so
+将LoadModule php5_module libexec/apache2/libphp5.so前面的注释(也就是#号去掉)
+php 项目的路径 open /Library/WebServer/Documents  修改虚拟主机 sudo vim /private/etc/apache2/extra/httpd-vhosts.conf  &amp;lt;VirtualHost *:80&amp;gt; ServerAdmin elk.backend.com DocumentRoot &amp;quot;/Library/WebServer/Documents/app-api-backend-master/app/app-api/public&amp;quot; ServerName elk.backend.com ErrorLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-error_log&amp;quot; CustomLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-access_log&amp;quot; common &amp;lt;/VirtualHost&amp;gt; &amp;lt;VirtualHost *:80&amp;gt; ServerAdmin elk.web.com DocumentRoot &amp;quot;/Library/WebServer/Documents/app-api-web-master/public&amp;quot; ServerName elk.web.com ErrorLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-error_log&amp;quot; CustomLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-access_log&amp;quot; common &amp;lt;/VirtualHost&amp;gt;  &amp;lt;VirtualHost *:80&amp;gt; ServerAdmin elk.</description>
+    </item>
+    
+    <item>
+      <title>Gitignore</title>
+      <link>https://evolution-ant.github.io/develop/gitignore/</link>
+      <pubDate>Mon, 23 Nov 2020 12:46:54 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/gitignore/</guid>
+      <description> .gitignore 用来忽略一些不需要提交的文件
+语法  # 表示注释 /TODO 表示忽略当前目录下的 TODO 文件夹 , 但不包括子目录下的 subdir/TODO TODO/ 表示忽略 TODO 文件夹下的所有文件 *.apk 表示忽略 .apk 文件 !release.apk 表示否定忽略 release.apk , 尽管前面已经忽略了 .apk *用来匹配零个或多个字符，如*.[oa] 忽略所有以.o 或 .a 结尾，*~忽略所有以 ~ 结尾的文件（这种文件通常被许多编辑器标记为临时文件）；[] 用来匹配括号内的任一字符，如 [abc] ，也可以在括号内加连接符，如 [0-9] 匹配0至9的数； ?用来匹配单个字符。  </description>
+    </item>
+    
+    <item>
+      <title>Why We Live</title>
+      <link>https://evolution-ant.github.io/philosophy/why-we-live/</link>
+      <pubDate>Mon, 23 Nov 2020 11:53:24 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/philosophy/why-we-live/</guid>
+      <description>A ：哲学家专有名词 1 辩证法（dialectic）
+一种被黑格尔和马克思大加使用的哲学方法，在辩证法中，矛盾之间互相对抗以达到真理。辩证法的起源可以在古希腊哲学中找到。
+2 白板（tabula rasa）
+洛克哲学中的术语。洛克认为心灵就像一块白板，从而与天赋观念存在的学说相对立。换句话说，心灵在人刚出生时是“空白的”，我们所知道的任何东西都必须通过经验“印上去”。
+3 超人（ubermensch）
+尼采著作中的一个概念，指一个有可能在未来取代我们的卓越的人。
+4 超验的（transcendent）
+独立的。在宗教哲学中，超验的上帝与他所创造的宇宙是相分离的和迥然不同的。这与内在的上帝概念相反，比如在泛神论中，上帝是等同于他的造物的，或可举一个不同的例子，在某种形式的人本主义那里，上帝是与人类相等同的（黑格尔主张这种观点）。
+5 沉思（的生活）[contemplation（the life）]
+按照亚里士多德（和其他哲学家）的说法，这是最幸福的生活，即是思想和哲学的生活。
+6 存在的世界（world of Being）
+柏拉图形而上学中的术语，指理想中的“形式”的世界，这个世界是没有变化的，我们只能通过理性和思想来认识这个世界。
+7 单子（monad）
+莱布尼茨用来指一切不变事物的最终组成部分的非物质实体，上帝是唯一一个不是被创造的单子，他作为自我封闭的（“无窗的”）的先定实体创造了所有其他单子。
+8 狄奥尼索斯式的（尼采）[Dionysian（Nietzsche）]
+艺术、精力和意志中的非理性原则。
+9 公意（卢梭）[general will（Rousseau）]
+一个民族集体的愿望和决定。
+10 信仰的飞跃（leap of faith）
+克尔凯郭尔的用语。他认为一个人不可能证明他所信仰的东西。
+11 海森堡不确定性原理（物理学中的）[Heisenberg uncertainty principle（in physics）]
+一个亚原子粒子的运动和位置不可能同时确定。
+12 怀疑的方法，方法论的怀疑（method of doubt,method of logical doubt）
+笛卡儿用于发现那些我们可以“完全确信”的原则的技巧；即怀疑一切，直到你发现那些不可能被怀疑的原则为止。
+13 荒谬的，“荒谬”（absurd，the“absurd”）
+不合理的，非理性的，无意义的。阿尔贝·加缪用这个术语指“理性的人和一个冷漠的宇宙的遭遇”，这个世界似乎对我们关于正义和意义的要求漠不关心。
+14 生成的世界（World of Becoming）
+柏拉图的形而上学中的术语，指我们的生活世界，由感官把握的对象的变化的世界。
+15 帕斯卡的赌注（Pascal’s wager）
+这是17世纪的法国哲学家帕斯卡提出的一个建议。该论证说，信仰上帝要三思而后行，因为如果他存在而你又信仰他，那么你将永远得到回报；然而如果他存在，你又不信仰他，那么你将永远受到惩罚。
+16 本真的自我（authentic self）
+存在主义的一种说法，指真正的、个体的自我认同，从而与非本真的自我相区别，非本真的自我只是一个人所扮演的角色和公众的认同而已。这个词在20世纪经由马丁·海德格尔的哲学而变得盛极一时。</description>
+    </item>
+    
+    <item>
+      <title>Game Incentives</title>
+      <link>https://evolution-ant.github.io/grow/game-incentives/</link>
+      <pubDate>Mon, 23 Nov 2020 11:42:37 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/grow/game-incentives/</guid>
+      <description>1.聪明人从来不多说话，那些賊喜欢发表观点侃侃而谈秀智商的，甚至为了捍卫观点争吵的面红耳赤的人，往往都是段位比较低的选手。大佬很少大声讲话，整个人显得从容淡定。更多时候在听和判断，而不是叭叭讲。对于他们来说，脑子比嘴重要。
+2.待人非常随和，不随便给自己树立敌人，但是对于他的底，他又不会轻易亮给你。
+3.忍耐力极强。对于让他不舒服或者损害到他利益的人，并不表现出恼怒，不会为小事儿和小人物生气。很能坐得住，别人可能使劲儿一周一个月看不到前景就放弃了，但是他们会忍着，很耐心的走，定力很强。
+4.学习能力很快，抓重点能力极强，脑子非常灵活，再怎么有social 技巧，没有硬本事也是很难搞起一波事业。他们对于一个东西思考深度很深，同时考虑的面很广。对于一些新的东西，可能一两天就可以搞懂。
+5.能够保持比较长时间的专注。承接上面来讲，大部分人智商存在差别，但是差别没有现实处境这么大。那些大佬做事情非常专注，现在大部分人越活越浮躁，一点儿机会就刷手机开小差，很难做到那种旁若无人的投入。这其实就已经不是智商问题了，他们的聪明实际上是和心静联系在一起的。
+6.冷静到炸裂。我觉得常人经常心态爆炸，遇到紧急情况心态特别容易崩，但是那些大佬很少见到他们表现出某种常人可以见到的焦虑。实习的时候，带我的一个小哥哥，北大本硕博，一路升的很快，他经常告诉我，情绪解决不了任何问题。我真觉得他可以到很好的位置。
+先说这么多。
+那个部虽然很多都是四五十多岁的同志，但是不得不说，大佬并不是只有我们所知道的那些负面东西，爬到那个位置的人，基本大家碰的都是脑子和定力。</description>
+    </item>
+    
+    <item>
+      <title>Study</title>
+      <link>https://evolution-ant.github.io/grow/study/</link>
+      <pubDate>Mon, 23 Nov 2020 11:40:47 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/grow/study/</guid>
+      <description>认识自己：人格测试
+逻辑：逻辑学简短入门
+立志
+英雄史观
+偶像
+要事优先
+费曼学习法
+反馈
+Challenge
+复盘
+整理
+理财
+分享
+自我奖励
+冥想
+痛苦，孤独，成长
+战术战略
+进化
+宇宙
+旁观者审视
+die
+口诀
+认知心理学家埃里克森认为，成为顶级专家，你需要刻意练习。刻意练习与普通练习的不同之处在于：(1)一个定义清晰的目标；(2)全神贯注及不懈努力；(3)即时的、有益的反馈；(4)持续反思和完善。
+所谓的三个F，就是Focus专注、Feedback反馈、以及Fix it修正</description>
+    </item>
+    
+    <item>
+      <title>Write</title>
+      <link>https://evolution-ant.github.io/grow/principle/</link>
+      <pubDate>Mon, 23 Nov 2020 11:38:06 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/grow/principle/</guid>
+      <description>写作是“输出”行为。如果持续输出，自己很快就会变得“中空”，所以请务必记得“吸收”。无论是小说、漫画、电影、戏剧、音乐，都不要忘记持续刺激自己。听到音乐要考虑“这首歌曲能写成什么样的小说”；看到出色的电影，要琢磨“如果由自己当导演，该怎么安排素材”；在接触别人的作品时，要养成时刻研究“这份感动应该如何运用到小说里
+提到小说，许多人可能认为这是单纯依靠天赋才能完成的工作，认为这是一项作家才有资格去触碰的工作。事实上，小说创作并没有外行人想象的那么神秘。许多畅销书作家并不是天生就会写小说的，也有许多作家表示自己从未想过会成为作家。例如日本著名作家村上春树，直到30岁才突然萌生写小说的想法，而且一写就写了30年。那么，小说创作到底是怎样的一个过程？写小说到底有没有技巧可循呢？
+这些问题的答案，你都可以在《小说创作基本技巧：从计划到出版》这本书里找到。《小说创作基本技巧》这本书专为初出茅庐的写作爱好者打造，详细讲述了在小说创作中需要高度关注的方方面面，例如如何设置情节、如何塑造人物等，并提出了许多有效的练习方法和写作建议。不只如此，这本书还谈到了一些出版的经验，有助于帮助写作者提高出版小说的机会。可以毫不夸张的说，《小说创作基本技巧》是一本揭秘小说从创作到出版的全流程的工具书。
+能够创作出这样一本写作秘籍的作者，必定对于小说创作驾轻就熟。的确，这本书的作者琳恩·巴瑞特-李是一位著名的畅销书作家，写作经验已超过20年。琳恩先后出版了《茱莉亚获得生命》、《黑暗中赤脚》、《永不言死》等多部小说和纪实文学作品，并于近年来开班讲授小说创作。琳恩有着丰富的写作实践和教学经验，这也使得《小说创作基本技巧》这本书更具有指导性。接下来，我将根据小说创作的各个时期来讲述这本书。
+1、创作前期酝酿故事概念，切忌信马由缰
+我们都知道，小说有三要素，那就是人物、情节和环境。不过创作小说就没有这么简单了，一旦你成为了小说创作者，你要把控的还包括小说的主题、人物的塑造、对白、主要事件等等。这些细碎的枝节都构成了你的整个故事，并且牵一发而动全身，不得不考虑完善。
+例如，你要写一个民国时期的小说，展示人物命运随时代剧烈动荡的主题，你就要了解清楚当时的社会环境，人们的说话习惯、衣食起居等等。你不可能让你笔下的人物穿着现代才时兴的哈伦裤，也不可能让他们说一些当时不可能出现的新词汇，这显然是一个巨大的情节漏洞，也会让你的故事失真，无法吸引读者。
+还有，你笔下的人物都具有哪些特点？毕竟人物的特点将决定他处理事件的态度。如果你笔下的人物性格勇敢果断，那他在面对巨大危机就不会懦弱的逃避。他的这种处事态度会让他陷入什么处境当中呢？当他遇上了小说中的主要事件，他做出了哪些举动？又将被主要事件如何影响呢？可以看到，在小说里人物和事件是相辅相成的关系，并且人物前后的态度应该保持一定的合理性和逻辑性。同时，主要事件将会推动人物促进情节发展，也会进一步彰显主题。因此，你的每一环设计都一定要精巧、严谨。
+对写作者来说，有时你可能还没有将整个小说的概念或事件理清楚就直接下笔创作，这就会导致你写到一半脑袋卡壳，或是越写越偏离主题，最后只能去修改人物设定或是故事背景，将最初的创作主旨丢的一干二净。怎样防止这种情况的发生？为了保持创作的连贯姓，你最好在创作开始时就设定一个完整的小说大纲，列明故事的开头、结尾和重要的事件关节点，以及人物如何促成事件发生、又是如何被事件影响。
+如果把写小说的历程比作一趟征程，那么一个完整的大纲就是你驾驶时的方向盘，它会保证你在正确的道路上行驶。
+2、创作中要克服惫懒困境，保持创作热情
+写小说既是脑力活，也是体力活，在创作的过程中，更是会遇到许多的困难，甚至会有所谓的灵感枯竭，让人坚持不下去。你要知道，灵感并不会在你最需要它的时候驾临，那么这时候，你可以尝试考虑其他的办法。
+你可以试着写下你脑海中的第一个念头。比如你现在很不愿意上班，幻想有一个机会能把你从繁重的工作中解脱出来。既然这样，就把你的念头写下来，并且干脆顺着构思下去：你笔下的人物突然被一个陌生人绑架了，上不了班了！再往下思考一下，他为什么会被绑架？他在故事中得罪了什么人吗？绑匪想从他身上得到什么，他该怎么逃出去？当你把每一个问题都回答清楚，你是不是有了写作素材了？
+你可以观察生活中的琐事，然后发挥想象力创造故事。比如你在公车站等车时，可以观察等候路人的神情和举止。如果某人满脸焦躁，你可以猜测他是不是工作上遇到不顺心的事了。如果他是一位白领，他或许刚刚失掉了升职的机会，或许是因为无法平衡工作家庭所以压力很大。身为创作者，你可以心狠一点，想象他因为工作出错被炒鱿鱼，但是不敢和家人坦白，所以现在装作上班的样子在到处找工作。你可以让你笔下的人物遭遇和他一样的困境，主人公会有什么反应呢？屋漏偏逢连夜雨，如果他竭力想隐藏的真相最后被曝光，会引起怎样的轩然大波？事情又是如何败露的呢？你看，当你用心观察生活时，有很多素材都可以移植到你的小说中去。
+还有一种写作困境，那就是当你写到一半时却不知道该怎么继续下去，而你的脑海里只能闪过小说后半部分点滴内容的画面。这时候你不妨放下你暂时跨不过去的情节空白，而是先把有写作思路的后续情节详细写出来。当你写后面的内容时，你也会始终把握着人物的特点和主题的彰显，而这些内容都会和前文有千丝万缕的联系，你再看看能否在前后文之间架设起连接的桥梁。
+写小说是真正要做到从一而终的工作。在这个过程中，你会有许多次脑子短路或灵感枯竭的状态，而最初支持你创作的那股热情也许会随着创作的艰难慢慢消退，但是你千万不要忘了你的源动力，尽量多坚持一会儿。
+3、创作结束后要及时修改，并向外寻求出版
+现在你已经写完你的小说初稿了，可别高兴得太早，好文章都是改出来的，你的小说初稿也不例外。这时候你最好把小说搁置几个星期，抽离出创作者的偏爱，让大脑放松后再重新审视、编辑，尽量做到客观。
+要怎么修改小说呢？回忆一下你所看过的经典小说，回忆他们是如何吸引你，如何打动你的。畅销的小说都做到了引人入胜，让读者手不释卷。你为什么会恨不得一口气读完畅销小说？那是因为在小说里有许多悬念牵引着你，有叙事的紧张感让你担忧人物的处境，让你舍不得放下手里的书。同样的，你也要在你的小说埋下许多钩子勾住读者，你也要为人物设置许多困难、营造紧张气氛和无数悬念让读者深入其中、不能自拔。因此，你最好把自己想象成一个冲突制造的机器，你的任务就是不停让人物历险，不停调动读者的情绪。如果你在重读小说初稿时，发觉哪里的情节不够紧凑，或是显得拖沓无力、不够吸引眼球，那么你要毫不犹豫的下笔修改，让你的小说从第一段就极具吸引力。
+修改完小说后，你可以着手写小说的简介与梗概了。出版商当然不会有时间看完你的小说全稿，所以你的简介和梗概就十分关键了。在简介中你需要提出许多的问题吸引读者注意，在梗概中你则要保持和原稿水平相近的叙述水准，最好参看大纲来描述你的整个故事情节，力求呈现整篇小说最为吸引人的地方。
+在推销小说的过程中，鉴于术业有专攻，所以你最好还是找一个经纪人代劳。经纪人与许多出版社有联系，有经纪人的推荐后，你的小说出版的可能性才会更高，所以你的稿件首先要打动文学经纪人。
+当然，被无情拒稿也是很可能的。许多人写了小说后最终都无法出版，而是只能压箱底藏灰。这时候你要问自己，这篇小说有没有什么硬伤？如果是不可控的外力因素，比如不符合出版商的偏好，那么你只能进一步反问自己，即使你的小说不被人欣赏、不能问世，你还是压抑不住想要写作的欲望吗？你写作的初衷是为了什么？是出于热爱吗？如果你还想坚持下去，那你就好好准备你的下一部小说；可如果你觉得坚持不下去了，那么放弃也未尝不可。
+总而言之，小说创作是一件吃力的活儿，你需要在写作前期克服小说的架构困难，在写作中期克服小说的创作困难，在写作后期克服克服小说的修改困难。正因为小说创作是一件具有难度的工作，所以你才更需要掌握方法技巧。你要帮助你的热情打败遇到的难关，帮助你的想象力找到着陆的地方，让你诉说的欲望有机会转变为抓人眼球的小说。</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://evolution-ant.github.io/develop/git/</link>
+      <pubDate>Mon, 23 Nov 2020 11:35:49 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/git/</guid>
+      <description>mac 配置多个 git 生成 sshkey 到 ~/.ssh 目录下
+$ ssh-keygen -t rsa -C &amp;quot;3443386329@qq.com&amp;quot; -f &amp;quot;id_rsa_gitee_ytdl&amp;quot;
+拷贝到粘贴板 $ pbcopy &amp;lt; ~/.ssh/id_rsa_gitee_ytdl.pub
+把公钥粘贴到 github 或 gitee 设置中 测试是否连接成功 ssh -T git@gitee.com
+如果连接正常会出现
+Hi XX! You&#39;ve successfully authenticated, but GITEE.COM does not provide shell access.  如果不成功 , 添加rsa到信任列表
+ssh-add -K ~/.ssh/id_rsa_gitee_ytdl  在 config文件中配置多个 ssh-key $open ~/.ssh/
+#公司 Host company.gitee.com Hostname gitee.com IdentityFile ~/.ssh/id_rsa User company #个人 Host me.gitee.com Hostname gitee.</description>
+    </item>
+    
+    <item>
+      <title>Ytdl</title>
+      <link>https://evolution-ant.github.io/develop/ytdl/</link>
+      <pubDate>Mon, 23 Nov 2020 11:34:34 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/ytdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://evolution-ant.github.io/collection/github/</link>
+      <pubDate>Mon, 23 Nov 2020 11:32:46 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/collection/github/</guid>
+      <description>项目名称 描述 分类 语言     weiboSpider 新浪微博爬虫，用python爬取新浪微博数据 爬虫 py   qrbtf TopicsA parametric QR code beautifier based on React. 参数化二维码生成器。 https://qrbtf.com 二维码 js   gifify 😻 Convert any video file to an optimized animated GIF. 视频转 gif js   Directlyrics 过了一阵子，我发现了一个优化网站排名（SEO）的方法：在网上找有什么歌即将发布，把歌名加到网站里（但没有歌词）。 等歌发布时，在 Google 里搜歌名我们就是排名第一了。  js   Awesome Electron Useful resources for creating apps with Electron  js   Yoda A nifty Mac OS X app to browse and download YouTube videos http://whoisandy.</description>
+    </item>
+    
+    <item>
+      <title>Book List</title>
+      <link>https://evolution-ant.github.io/collection/book-list/</link>
+      <pubDate>Mon, 23 Nov 2020 11:24:54 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/collection/book-list/</guid>
+      <description>书名 简介 分类     重新定义公司     创新公司：皮克斯的启示     四步创业法     自控力     人类动机     创造性     3分鐘說18萬個故事，打造影響力     掌控习惯     思考快与慢     The New Comedy Writing Step-by-Step by Gene Perret. If you can only read one book, make it this one.</description>
+    </item>
     
     <item>
       <title></title>

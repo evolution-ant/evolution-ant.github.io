@@ -6,9 +6,152 @@
     <description>Recent content in Develops on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 07 Feb 2021 11:31:02 +0800</lastBuildDate>
     
 	<atom:link href="https://evolution-ant.github.io/develop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semrush</title>
+      <link>https://evolution-ant.github.io/develop/semrush/</link>
+      <pubDate>Sun, 07 Feb 2021 11:31:02 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/semrush/</guid>
+      <description> 目前总配额 760 万
+https://zh.semrush.com/billing-admin/profile/subscription/api-units
+超出部分的付费方案 $50/1M
+API 花费情况 按照返回的数据量进行计算的 , 每个接口都不一样 , 一般每行 10-100 之间
+比如 , 查询相关关键词 , 每行花费 20
+https://api.semrush.com/?type=phrase_fullsearch&amp;amp;key=be82aeeb91cd5670e6040b30927e0cab&amp;amp;phrase=seo&amp;amp;export_columns=Ph,Nq,Cp,Co,Nr,Td,Fk&amp;amp;database=us&amp;amp;display_limit=10&amp;amp;display_sort=nq_desc&amp;amp;display_filter=%2B|Nq|Lt|1000  10 行数据 , 每行 20 , 花费 200 , 这里我们限制只返回 10 条 , 一般总数据会有上万条
+待确认的问题  要查询的 keyword 总量 要查询的 domain 总量 100 数据分别保存多久 数据多久更新一次 ( 每天 ) 查看相关关键词 , 大约会查看多少条  </description>
+    </item>
+    
+    <item>
+      <title>Today</title>
+      <link>https://evolution-ant.github.io/develop/today/</link>
+      <pubDate>Fri, 05 Feb 2021 10:20:06 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/today/</guid>
+      <description> 调试 dvdtalk 500 的问题 修改 username 大小写 , 空格 . 的转换 增加更新 user 功能 查看 unext 如何重头播放 整理 cms 接口文档   </description>
+    </item>
+    
+    <item>
+      <title>Totheweb</title>
+      <link>https://evolution-ant.github.io/develop/totheweb/</link>
+      <pubDate>Wed, 03 Feb 2021 10:25:38 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/totheweb/</guid>
+      <description>ToTheWeb 规模 20w 次
+API 免费 无免费 api
+收费 https://totheweb.com/services/#pricing
+爬取方案 模拟网页端的 ajax 请求
+暂时没有测试出多次会被封禁 , 通过代理应该可以解决
+最终方案 爬虫</description>
+    </item>
+    
+    <item>
+      <title>Moz</title>
+      <link>https://evolution-ant.github.io/develop/moz/</link>
+      <pubDate>Fri, 29 Jan 2021 16:33:57 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/moz/</guid>
+      <description>Moz 规模 20w 次
+API 免费 无免费 api
+收费 https://moz.com/products/local/pricing
+爬取方案 一般连续爬取 5 次就会封禁 ip
+最终方案 使用一款类似产品 ahrefs , 我们已经购买过 , 可以直接使用 api</description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://evolution-ant.github.io/develop/mysql/</link>
+      <pubDate>Tue, 05 Jan 2021 10:42:20 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/mysql/</guid>
+      <description>替换某个字段里的特定字符串
+UPDATE narticles SET content = REPLACE(content, &#39;2020&#39;, &#39;2021&#39;); UPDATE narticles SET title = REPLACE(title, &#39;2020&#39;, &#39;2021&#39;); UPDATE narticles SET meta_info = REPLACE(meta_info, &#39;2020&#39;, &#39;2021&#39;);  完整复制一张表
+CREATE TABLE narticles LIKE narticles_2021; INSERT INTO narticles SELECT * FROM narticles_2021;  </description>
+    </item>
+    
+    <item>
+      <title>Crawler Js</title>
+      <link>https://evolution-ant.github.io/develop/crawler-js/</link>
+      <pubDate>Wed, 02 Dec 2020 16:51:28 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/crawler-js/</guid>
+      <description>抓取网页上按钮的点击事件 https://www.summarizetool.com/summarization-tool/#ipg_title
+想要拿到 summarize 的点击事件
+使用火狐浏览器 , 找到元素 , 检测元素 , event 就是对应的点击事件
+如何 console 里引入第三方库 拦截请求 chrome 调试技巧 https://juejin.cn/post/6844903732874854414
+Es5- es6
+https://www.jianshu.com/p/647950617a6d</description>
+    </item>
+    
+    <item>
+      <title>Mac_shortcut</title>
+      <link>https://evolution-ant.github.io/develop/mac_shortcut/</link>
+      <pubDate>Fri, 27 Nov 2020 10:36:45 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/mac_shortcut/</guid>
+      <description>   key work      space page down    cmd + ` switch tab between same app    cms+1 搜索后聚焦光标          </description>
+    </item>
+    
+    <item>
+      <title>Vscode</title>
+      <link>https://evolution-ant.github.io/develop/vscode/</link>
+      <pubDate>Mon, 23 Nov 2020 15:04:43 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php Config</title>
+      <link>https://evolution-ant.github.io/develop/php-config/</link>
+      <pubDate>Mon, 23 Nov 2020 14:54:09 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/php-config/</guid>
+      <description>启动 apache 服务 sudo apachectl start  重启命令
+sudo apachectl restart  停止命令
+sudo apachectl stop  编辑 http.conf 配置文件 sudo vim /etc/apache2/httpd.conf  找到 LoadModule php5_module libexec/apache2/libphp5.so
+将LoadModule php5_module libexec/apache2/libphp5.so前面的注释(也就是#号去掉)
+php 项目的路径 open /Library/WebServer/Documents  修改虚拟主机 sudo vim /private/etc/apache2/extra/httpd-vhosts.conf  &amp;lt;VirtualHost *:80&amp;gt; ServerAdmin elk.backend.com DocumentRoot &amp;quot;/Library/WebServer/Documents/app-api-backend-master/app/app-api/public&amp;quot; ServerName elk.backend.com ErrorLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-error_log&amp;quot; CustomLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-access_log&amp;quot; common &amp;lt;/VirtualHost&amp;gt; &amp;lt;VirtualHost *:80&amp;gt; ServerAdmin elk.web.com DocumentRoot &amp;quot;/Library/WebServer/Documents/app-api-web-master/public&amp;quot; ServerName elk.web.com ErrorLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-error_log&amp;quot; CustomLog &amp;quot;/private/var/log/apache2/dummy-host2.example.com-access_log&amp;quot; common &amp;lt;/VirtualHost&amp;gt;  &amp;lt;VirtualHost *:80&amp;gt; ServerAdmin elk.</description>
+    </item>
+    
+    <item>
+      <title>Gitignore</title>
+      <link>https://evolution-ant.github.io/develop/gitignore/</link>
+      <pubDate>Mon, 23 Nov 2020 12:46:54 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/gitignore/</guid>
+      <description> .gitignore 用来忽略一些不需要提交的文件
+语法  # 表示注释 /TODO 表示忽略当前目录下的 TODO 文件夹 , 但不包括子目录下的 subdir/TODO TODO/ 表示忽略 TODO 文件夹下的所有文件 *.apk 表示忽略 .apk 文件 !release.apk 表示否定忽略 release.apk , 尽管前面已经忽略了 .apk *用来匹配零个或多个字符，如*.[oa] 忽略所有以.o 或 .a 结尾，*~忽略所有以 ~ 结尾的文件（这种文件通常被许多编辑器标记为临时文件）；[] 用来匹配括号内的任一字符，如 [abc] ，也可以在括号内加连接符，如 [0-9] 匹配0至9的数； ?用来匹配单个字符。  </description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://evolution-ant.github.io/develop/git/</link>
+      <pubDate>Mon, 23 Nov 2020 11:35:49 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/git/</guid>
+      <description>mac 配置多个 git 生成 sshkey 到 ~/.ssh 目录下
+$ ssh-keygen -t rsa -C &amp;quot;3443386329@qq.com&amp;quot; -f &amp;quot;id_rsa_gitee_ytdl&amp;quot;
+拷贝到粘贴板 $ pbcopy &amp;lt; ~/.ssh/id_rsa_gitee_ytdl.pub
+把公钥粘贴到 github 或 gitee 设置中 测试是否连接成功 ssh -T git@gitee.com
+如果连接正常会出现
+Hi XX! You&#39;ve successfully authenticated, but GITEE.COM does not provide shell access.  如果不成功 , 添加rsa到信任列表
+ssh-add -K ~/.ssh/id_rsa_gitee_ytdl  在 config文件中配置多个 ssh-key $open ~/.ssh/
+#公司 Host company.gitee.com Hostname gitee.com IdentityFile ~/.ssh/id_rsa User company #个人 Host me.gitee.com Hostname gitee.</description>
+    </item>
+    
+    <item>
+      <title>Ytdl</title>
+      <link>https://evolution-ant.github.io/develop/ytdl/</link>
+      <pubDate>Mon, 23 Nov 2020 11:34:34 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/ytdl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dailies on My New Hugo Site</title>
+    <link>https://evolution-ant.github.io/daily/</link>
+    <description>Recent content in Dailies on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Dec 2021 16:22:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://evolution-ant.github.io/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Todo</title>
+      <link>https://evolution-ant.github.io/daily/todo/</link>
+      <pubDate>Tue, 28 Dec 2021 16:22:07 +0800</pubDate>
+      
+      <guid>https://evolution-ant.github.io/daily/todo/</guid>
+      <description>探索
+开源  多语言
+多语言发布，消息 多语言字段混乱  cms
+解决翻译 bug 关联产品 发布时间 作者  job 架构</description>
+    </item>
+    
+  </channel>
+</rss>

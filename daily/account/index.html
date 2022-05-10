@@ -9,22 +9,22 @@
 
     <link rel="icon" href="/images/favicon.png" type="image/png">
 
-    <title> :: My New Hugo Site</title>
+    <title>Account :: My New Hugo Site</title>
 
     
-    <link href="/css/nucleus.css?1652187543" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css?1652187543" rel="stylesheet">
-    <link href="/css/hybrid.css?1652187543" rel="stylesheet">
-    <link href="/css/featherlight.min.css?1652187543" rel="stylesheet">
-    <link href="/css/perfect-scrollbar.min.css?1652187543" rel="stylesheet">
-    <link href="/css/auto-complete.css?1652187543" rel="stylesheet">
-    <link href="/css/atom-one-dark-reasonable.css?1652187543" rel="stylesheet">
-    <link href="/css/theme.css?1652187543" rel="stylesheet">
-    <link href="/css/hugo-theme.css?1652187543" rel="stylesheet">
+    <link href="/css/nucleus.css?1652187450" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1652187450" rel="stylesheet">
+    <link href="/css/hybrid.css?1652187450" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1652187450" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1652187450" rel="stylesheet">
+    <link href="/css/auto-complete.css?1652187450" rel="stylesheet">
+    <link href="/css/atom-one-dark-reasonable.css?1652187450" rel="stylesheet">
+    <link href="/css/theme.css?1652187450" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1652187450" rel="stylesheet">
     
     
 
-    <script src="/js/jquery-3.3.1.min.js?1652187543"></script>
+    <script src="/js/jquery-3.3.1.min.js?1652187450"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
@@ -34,7 +34,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/develop/%E5%B0%9D%E8%AF%95/">
+  <body class="" data-url="/daily/account/">
     <nav id="sidebar" class="">
 
 
@@ -69,14 +69,14 @@
     <span data-search-clear=""><i class="fas fa-times"></i></span>
 </div>
 
-<script type="text/javascript" src="/js/lunr.min.js?1652187543"></script>
-<script type="text/javascript" src="/js/auto-complete.js?1652187543"></script>
+<script type="text/javascript" src="/js/lunr.min.js?1652187450"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1652187450"></script>
 <script type="text/javascript">
     
         var baseurl = "https:\/\/evolution-ant.github.io\/";
     
 </script>
-<script type="text/javascript" src="/js/search.js?1652187543"></script>
+<script type="text/javascript" src="/js/search.js?1652187450"></script>
 
     
   </div>
@@ -104,7 +104,7 @@
   
     
     <li data-nav-id="/daily/" title="Dailies" class="dd-item
-        
+        parent
         
         
         ">
@@ -133,6 +133,27 @@
       <li data-nav-id="/daily/todo/" title="Todo" class="dd-item ">
         <a href="/daily/todo/">
         Todo
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/daily/account/" title="Account" class="dd-item active">
+        <a href="/daily/account/">
+        Account
         
         </a>
     </li>
@@ -353,7 +374,7 @@
   
     
     <li data-nav-id="/develop/" title="Develops" class="dd-item
-        parent
+        
         
         
         ">
@@ -631,7 +652,7 @@
  
   
     
-      <li data-nav-id="/develop/%E5%B0%9D%E8%AF%95/" title="" class="dd-item active">
+      <li data-nav-id="/develop/%E5%B0%9D%E8%AF%95/" title="" class="dd-item ">
         <a href="/develop/%E5%B0%9D%E8%AF%95/">
         
         
@@ -946,7 +967,7 @@
             
           
           
-            <a href='/'>growth</a> > <a href='/develop/'>Develops</a> > 
+            <a href='/'>growth</a> > <a href='/daily/'>Dailies</a> > Account
           
         
           
@@ -963,11 +984,7 @@
 <ul>
 <li>
 <ul>
-<li>
-<ul>
-<li><a href="#尝试">尝试</a></li>
-<li><a href="#最终方案">最终方案</a></li>
-</ul></li>
+<li><a href="#服务器数据库配置">服务器数据库配置</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -986,7 +1003,7 @@
           
             <h1>
               
-              
+              Account
             </h1>
           
 
@@ -995,88 +1012,49 @@
 
 
 
-<ol>
-<li>Request URL:</li>
-</ol>
+<h2 id="服务器数据库配置">服务器数据库配置</h2>
 
-<p><a href="https://assetshuluimcom-a.akamaihd.net/captions_webvtt/993/61304993_US_en_en.vtt">https://assetshuluimcom-a.akamaihd.net/captions_webvtt/993/61304993_US_en_en.vtt</a></p>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>连接</th>
+<th>密码</th>
+<th>mysql</th>
+<th>mysql 密码</th>
+<th></th>
+</tr>
+</thead>
 
-<p><a href="https://assetshuluimcom-a.akamaihd.net/captions/993/61304993_US_en_en.smi">https://assetshuluimcom-a.akamaihd.net/captions/993/61304993_US_en_en.smi</a></p>
+<tbody>
+<tr>
+<td>cms-us</td>
+<td>ssh junling.zheng@8.210.36.22 -p 2222</td>
+<td>1IEXqpKP#5tKSFJG</td>
+<td>mysql -h devops.dvdfab.me -P 50025 -u laravel -p</td>
+<td>AmHi*4Gi3</td>
+<td></td>
+</tr>
 
-<pre><code>https://www.netflix.com/api/shakti/v0c29af6f/metadata?webp=true&amp;drmSystem=widevine&amp;isVolatileBillboardsEnabled=true&amp;routeAPIRequestsThroughFTL=false&amp;isTop10Supported=true&amp;categoryCraversEnabled=false&amp;hasVideoMerchInBob=true&amp;persoInfoDensity=false&amp;contextAwareImages=true&amp;movieid=81084350
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 
-https://www.netflix.com/api/shakti/v0c29af6f/metadata?&amp;movieid=81084350
-
-
-https://search-api-disney.svcs.dssott.com/svc/content/DmcVideoBundle/version/3.2/region/US/audience/false/maturity/9999/language/en/encodedFamilyId/1p4vdKzTuhzr
-
-
-https://discover.hulu.com/content/v5/hubs/series/5fb7033a-4d45-4f0f-b1c6-84eebc4a70be
-</code></pre>
-
-<pre><code>https://atv-ps.amazon.com/cdp/catalog/GetPlaybackResources?deviceID=35d47f6eb5cd6ef6db8ffb75b4c9108bbd02e53524ec927740ed2c2a&amp;deviceTypeID=AOAGZA014O5RE&amp;gascEnabled=false&amp;marketplaceID=ATVPDKIKX0DER&amp;firmware=1&amp;clientId=f22dbddb-ef2c-48c5-8876-bed0d47594fd&amp;deviceApplicationName=Chrome&amp;playerType=xp&amp;operatingSystemName=Mac%20OS%20X&amp;operatingSystemVersion=10.14.6&amp;asin=B00FXMECS6&amp;consumptionType=Streaming&amp;desiredResources=PlaybackUrls%2CCuepointPlaylist%2CCatalogMetadata%2CSubtitleUrls%2CForcedNarratives%2CTrickplayUrls%2CTransitionTimecodes%2CPlaybackSettings%2CXRayMetadata&amp;resourceUsage=CacheResources&amp;videoMaterialType=Feature&amp;userWatchSessionId=77e59761-11bf-4be9-831c-40fc9a813d07&amp;deviceProtocolOverride=Https&amp;deviceStreamingTechnologyOverride=DASH&amp;deviceDrmOverride=CENC&amp;deviceBitrateAdaptationsOverride=CVBR%2CCBR&amp;deviceHdrFormatsOverride=None&amp;deviceVideoCodecOverride=H264&amp;deviceVideoQualityOverride=HD&amp;audioTrackId=all&amp;languageFeature=MLFv2&amp;liveManifestType=patternTemplate%2Caccumulating%2Clive&amp;supportedDRMKeyScheme=DUAL_KEY&amp;titleDecorationScheme=primary-content&amp;subtitleFormat=TTMLv2&amp;playbackSettingsFormatVersion=1.0.0&amp;xrayToken=XRAY_WEB_2020_V3&amp;xrayPlaybackMode=playback&amp;xrayDeviceClass=normal&amp;playerAttributes=%7B%22middlewareName%22%3A%22Chrome%22%2C%22middlewareVersion%22%3A%2286.0.4240.198%22%2C%22nativeApplicationName%22%3A%22Chrome%22%2C%22nativeApplicationVersion%22%3A%2286.0.4240.198%22%2C%22supportedAudioCodecs%22%3A%22AAC%22%2C%22frameRate%22%3A%22SFR%22%2C%22H264.codecLevel%22%3A%223.1%22%2C%22H265.codecLevel%22%3A%220.0%22%7D
-</code></pre>
-
-<pre><code>netflix 的 seek 信号好像是保存在云端的 , 我测试不同的浏览器 , seek 信息也能同步 , 只能
-</code></pre>
-
-<pre><code>var stream = document.getElementsByTagName('video');
-function pauseStream() {
- if (stream.paused) {
-    console.log('paused')
- }else{
-     console.log('playing')
- }
-}
-</code></pre>
-
-<p>控制视频播放进度</p>
-
-<p>为了方便录屏 , 需要在视频每次都从开始位置播放 .</p>
-
-<h3 id="尝试">尝试</h3>
-
-<p>通过清除缓存方式解决 , 不起作用 , 测试了多个不同浏览器发现 , 播放进度都可以同步 , seek 信息应该是保存在云端 . 通过清除缓存的方式行不通 .</p>
-
-<h3 id="最终方案">最终方案</h3>
-
-<p>通过注入 js 强制改变当前播放时间 , 大致思路 , 根据标签找到对应 video , 强制设置 video 播放进度 .</p>
-
-<ul>
-<li><p>[x] <code>disney+</code></p></li>
-
-<li><p>[x] <code>hulu</code></p></li>
-
-<li><p>[x] <code>amazon</code></p></li>
-
-<li><p>[ ] <code>netflix</code> 执行脚本时会抛出 <code>M7375</code> 错误</p></li>
-</ul>
-
-<p><img src="https://i.loli.net/2020/11/24/OTkw7apCHZmzAPV.png" alt="" /></p>
-
-<p><a href="https://i6a1sqw3p2.feishu.cn/docs/doccnlb5a0vOk6v01cIQObvWjeB#">https://i6a1sqw3p2.feishu.cn/docs/doccnlb5a0vOk6v01cIQObvWjeB#</a> 目前只有 netflix 不能控制当前播放进度</p>
-
-<pre><code>--skip-download --print-dvdfab-out --retries 2 --no-check-certificate --list-subs -v --embed-thumbnail --thumbnail-dir ./ --dump-json --encoding utf-8 --ignore-errors --yes-playlist https://www.youtube.com/watch?v=knYmbVwfPN0&amp;list=PLsz1VHK7-StNxGetWIH0uY6YQY6JspGBY
-</code></pre>
-
-<pre><code>--skip-download --print-dvdfab-out --retries 2 --no-check-certificate --list-subs -v --embed-thumbnail  --dump-json --encoding utf-8 --ignore-errors --yes-playlist https://www.youtube.com/watch?v=MuAGGZNfUkU&amp;list=RDMM
-</code></pre>
-
-<pre><code>{'_type': 'url_transparent', 'ie_key': 'Youtube', 'id': 'MuAGGZNfUkU', 'url': 'MuAGGZNfUkU', 'title': 'Hans Zimmer - Time', 'description': None, 'duration': 285.0, 'view_count': None, 'uploader': None}
-{'_type': 'url_transparent', 'ie_key': 'Youtube', 'id': 'MuAGGZNfUkU', 'url': 'MuAGGZNfUkU', 'title': 'Hans Zimmer - Time', 'description': None, 'duration': 285.0, 'view_count': None, 'uploader': None}
-</code></pre>
-
-<pre><code>+ [spreaker] Add support for spreaker.com 
-* [vlive] Improve extraction for geo-restricted videos
-+ [vlive] Add support for post URLs 
-* [viki] Fix video API request
-* [bbc] Fix BBC Three clip extraction
-* [bbc] Fix BBC News videos extraction
-+ [medaltv] Add support for medal.tv
-* [youtube] Imporve music metadata and license extraction 
-* [nrk] 
-* [cda]
-</code></pre>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
 <footer class="footline">
@@ -1114,6 +1092,59 @@ function pauseStream() {
             
                 
                     
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
                         
                         
                     
@@ -1173,38 +1204,6 @@ function pauseStream() {
             
         
                     
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
                         
             
             
@@ -1277,7 +1276,6 @@ function pauseStream() {
             
                 
                     
-                    
                 
                 
 
@@ -1285,41 +1283,6 @@ function pauseStream() {
                     
                     
 
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
                     
                         
             
@@ -1486,6 +1449,37 @@ function pauseStream() {
             
                 
                     
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
                     
                 
                 
@@ -1505,9 +1499,6 @@ function pauseStream() {
             
             
                 
-                    
-                        
-                        
                     
                 
                 
@@ -1673,10 +1664,10 @@ function pauseStream() {
 	 
 	 
 		
-			<a class="nav nav-prev" href="/develop/ytdl/" title="Ytdl"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/daily/todo/" title="Todo"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/grow/" title="Grow" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/psychology/" title="Psychologies" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -1686,19 +1677,19 @@ function pauseStream() {
     <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
       <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
     </div>
-    <script src="/js/clipboard.min.js?1652187543"></script>
-    <script src="/js/perfect-scrollbar.min.js?1652187543"></script>
-    <script src="/js/perfect-scrollbar.jquery.min.js?1652187543"></script>
-    <script src="/js/jquery.sticky.js?1652187543"></script>
-    <script src="/js/featherlight.min.js?1652187543"></script>
-    <script src="/js/highlight.pack.js?1652187543"></script>
+    <script src="/js/clipboard.min.js?1652187450"></script>
+    <script src="/js/perfect-scrollbar.min.js?1652187450"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1652187450"></script>
+    <script src="/js/jquery.sticky.js?1652187450"></script>
+    <script src="/js/featherlight.min.js?1652187450"></script>
+    <script src="/js/highlight.pack.js?1652187450"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <script src="/js/modernizr.custom-3.6.0.js?1652187543"></script>
-    <script src="/js/learn.js?1652187543"></script>
-    <script src="/js/hugo-learn.js?1652187543"></script>
+    <script src="/js/modernizr.custom-3.6.0.js?1652187450"></script>
+    <script src="/js/learn.js?1652187450"></script>
+    <script src="/js/hugo-learn.js?1652187450"></script>
     
         
-            <script src="/mermaid/mermaid.js?1652187543"></script>
+            <script src="/mermaid/mermaid.js?1652187450"></script>
         
         <script>
             mermaid.initialize({ startOnLoad: true });
