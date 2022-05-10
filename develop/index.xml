@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Develops on My New Hugo Site</title>
+    <link>https://evolution-ant.github.io/develop/</link>
+    <description>Recent content in Develops on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://evolution-ant.github.io/develop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://evolution-ant.github.io/develop/%E5%B0%9D%E8%AF%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://evolution-ant.github.io/develop/%E5%B0%9D%E8%AF%95/</guid>
+      <description>Request URL:  https://assetshuluimcom-a.akamaihd.net/captions_webvtt/993/61304993_US_en_en.vtt
+https://assetshuluimcom-a.akamaihd.net/captions/993/61304993_US_en_en.smi
+https://www.netflix.com/api/shakti/v0c29af6f/metadata?webp=true&amp;amp;drmSystem=widevine&amp;amp;isVolatileBillboardsEnabled=true&amp;amp;routeAPIRequestsThroughFTL=false&amp;amp;isTop10Supported=true&amp;amp;categoryCraversEnabled=false&amp;amp;hasVideoMerchInBob=true&amp;amp;persoInfoDensity=false&amp;amp;contextAwareImages=true&amp;amp;movieid=81084350 https://www.netflix.com/api/shakti/v0c29af6f/metadata?&amp;amp;movieid=81084350 https://search-api-disney.svcs.dssott.com/svc/content/DmcVideoBundle/version/3.2/region/US/audience/false/maturity/9999/language/en/encodedFamilyId/1p4vdKzTuhzr https://discover.hulu.com/content/v5/hubs/series/5fb7033a-4d45-4f0f-b1c6-84eebc4a70be  https://atv-ps.amazon.com/cdp/catalog/GetPlaybackResources?deviceID=35d47f6eb5cd6ef6db8ffb75b4c9108bbd02e53524ec927740ed2c2a&amp;amp;deviceTypeID=AOAGZA014O5RE&amp;amp;gascEnabled=false&amp;amp;marketplaceID=ATVPDKIKX0DER&amp;amp;firmware=1&amp;amp;clientId=f22dbddb-ef2c-48c5-8876-bed0d47594fd&amp;amp;deviceApplicationName=Chrome&amp;amp;playerType=xp&amp;amp;operatingSystemName=Mac%20OS%20X&amp;amp;operatingSystemVersion=10.14.6&amp;amp;asin=B00FXMECS6&amp;amp;consumptionType=Streaming&amp;amp;desiredResources=PlaybackUrls%2CCuepointPlaylist%2CCatalogMetadata%2CSubtitleUrls%2CForcedNarratives%2CTrickplayUrls%2CTransitionTimecodes%2CPlaybackSettings%2CXRayMetadata&amp;amp;resourceUsage=CacheResources&amp;amp;videoMaterialType=Feature&amp;amp;userWatchSessionId=77e59761-11bf-4be9-831c-40fc9a813d07&amp;amp;deviceProtocolOverride=Https&amp;amp;deviceStreamingTechnologyOverride=DASH&amp;amp;deviceDrmOverride=CENC&amp;amp;deviceBitrateAdaptationsOverride=CVBR%2CCBR&amp;amp;deviceHdrFormatsOverride=None&amp;amp;deviceVideoCodecOverride=H264&amp;amp;deviceVideoQualityOverride=HD&amp;amp;audioTrackId=all&amp;amp;languageFeature=MLFv2&amp;amp;liveManifestType=patternTemplate%2Caccumulating%2Clive&amp;amp;supportedDRMKeyScheme=DUAL_KEY&amp;amp;titleDecorationScheme=primary-content&amp;amp;subtitleFormat=TTMLv2&amp;amp;playbackSettingsFormatVersion=1.0.0&amp;amp;xrayToken=XRAY_WEB_2020_V3&amp;amp;xrayPlaybackMode=playback&amp;amp;xrayDeviceClass=normal&amp;amp;playerAttributes=%7B%22middlewareName%22%3A%22Chrome%22%2C%22middlewareVersion%22%3A%2286.0.4240.198%22%2C%22nativeApplicationName%22%3A%22Chrome%22%2C%22nativeApplicationVersion%22%3A%2286.0.4240.198%22%2C%22supportedAudioCodecs%22%3A%22AAC%22%2C%22frameRate%22%3A%22SFR%22%2C%22H264.codecLevel%22%3A%223.1%22%2C%22H265.codecLevel%22%3A%220.0%22%7D  netflix 的 seek 信号好像是保存在云端的 , 我测试不同的浏览器 , seek 信息也能同步 , 只能  var stream = document.getElementsByTagName(&#39;video&#39;); function pauseStream() { if (stream.paused) { console.log(&#39;paused&#39;) }else{ console.log(&#39;playing&#39;) } }  控制视频播放进度
+为了方便录屏 , 需要在视频每次都从开始位置播放 .
+尝试 通过清除缓存方式解决 , 不起作用 , 测试了多个不同浏览器发现 , 播放进度都可以同步 , seek 信息应该是保存在云端 . 通过清除缓存的方式行不通 .
+最终方案 通过注入 js 强制改变当前播放时间 , 大致思路 , 根据标签找到对应 video , 强制设置 video 播放进度 .</description>
+    </item>
+    
+  </channel>
+</rss>

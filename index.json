@@ -1,0 +1,50 @@
+[
+{
+	"uri": "https://evolution-ant.github.io/develop/%E5%B0%9D%E8%AF%95/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "  Request URL:  https://assetshuluimcom-a.akamaihd.net/captions_webvtt/993/61304993_US_en_en.vtt\nhttps://assetshuluimcom-a.akamaihd.net/captions/993/61304993_US_en_en.smi\nhttps://www.netflix.com/api/shakti/v0c29af6f/metadata?webp=true\u0026amp;drmSystem=widevine\u0026amp;isVolatileBillboardsEnabled=true\u0026amp;routeAPIRequestsThroughFTL=false\u0026amp;isTop10Supported=true\u0026amp;categoryCraversEnabled=false\u0026amp;hasVideoMerchInBob=true\u0026amp;persoInfoDensity=false\u0026amp;contextAwareImages=true\u0026amp;movieid=81084350 https://www.netflix.com/api/shakti/v0c29af6f/metadata?\u0026amp;movieid=81084350 https://search-api-disney.svcs.dssott.com/svc/content/DmcVideoBundle/version/3.2/region/US/audience/false/maturity/9999/language/en/encodedFamilyId/1p4vdKzTuhzr https://discover.hulu.com/content/v5/hubs/series/5fb7033a-4d45-4f0f-b1c6-84eebc4a70be  https://atv-ps.amazon.com/cdp/catalog/GetPlaybackResources?deviceID=35d47f6eb5cd6ef6db8ffb75b4c9108bbd02e53524ec927740ed2c2a\u0026amp;deviceTypeID=AOAGZA014O5RE\u0026amp;gascEnabled=false\u0026amp;marketplaceID=ATVPDKIKX0DER\u0026amp;firmware=1\u0026amp;clientId=f22dbddb-ef2c-48c5-8876-bed0d47594fd\u0026amp;deviceApplicationName=Chrome\u0026amp;playerType=xp\u0026amp;operatingSystemName=Mac%20OS%20X\u0026amp;operatingSystemVersion=10.14.6\u0026amp;asin=B00FXMECS6\u0026amp;consumptionType=Streaming\u0026amp;desiredResources=PlaybackUrls%2CCuepointPlaylist%2CCatalogMetadata%2CSubtitleUrls%2CForcedNarratives%2CTrickplayUrls%2CTransitionTimecodes%2CPlaybackSettings%2CXRayMetadata\u0026amp;resourceUsage=CacheResources\u0026amp;videoMaterialType=Feature\u0026amp;userWatchSessionId=77e59761-11bf-4be9-831c-40fc9a813d07\u0026amp;deviceProtocolOverride=Https\u0026amp;deviceStreamingTechnologyOverride=DASH\u0026amp;deviceDrmOverride=CENC\u0026amp;deviceBitrateAdaptationsOverride=CVBR%2CCBR\u0026amp;deviceHdrFormatsOverride=None\u0026amp;deviceVideoCodecOverride=H264\u0026amp;deviceVideoQualityOverride=HD\u0026amp;audioTrackId=all\u0026amp;languageFeature=MLFv2\u0026amp;liveManifestType=patternTemplate%2Caccumulating%2Clive\u0026amp;supportedDRMKeyScheme=DUAL_KEY\u0026amp;titleDecorationScheme=primary-content\u0026amp;subtitleFormat=TTMLv2\u0026amp;playbackSettingsFormatVersion=1.0.0\u0026amp;xrayToken=XRAY_WEB_2020_V3\u0026amp;xrayPlaybackMode=playback\u0026amp;xrayDeviceClass=normal\u0026amp;playerAttributes=%7B%22middlewareName%22%3A%22Chrome%22%2C%22middlewareVersion%22%3A%2286.0.4240.198%22%2C%22nativeApplicationName%22%3A%22Chrome%22%2C%22nativeApplicationVersion%22%3A%2286.0.4240.198%22%2C%22supportedAudioCodecs%22%3A%22AAC%22%2C%22frameRate%22%3A%22SFR%22%2C%22H264.codecLevel%22%3A%223.1%22%2C%22H265.codecLevel%22%3A%220.0%22%7D  netflix 的 seek 信号好像是保存在云端的 , 我测试不同的浏览器 , seek 信息也能同步 , 只能  var stream = document.getElementsByTagName('video'); function pauseStream() { if (stream.paused) { console.log('paused') }else{ console.log('playing') } }  控制视频播放进度\n为了方便录屏 , 需要在视频每次都从开始位置播放 .\n尝试 通过清除缓存方式解决 , 不起作用 , 测试了多个不同浏览器发现 , 播放进度都可以同步 , seek 信息应该是保存在云端 . 通过清除缓存的方式行不通 .\n最终方案 通过注入 js 强制改变当前播放时间 , 大致思路 , 根据标签找到对应 video , 强制设置 video 播放进度 .\n [x] disney+\n [x] hulu\n [x] amazon\n [ ] netflix 执行脚本时会抛出 M7375 错误\n  https://i6a1sqw3p2.feishu.cn/docs/doccnlb5a0vOk6v01cIQObvWjeB# 目前只有 netflix 不能控制当前播放进度\n--skip-download --print-dvdfab-out --retries 2 --no-check-certificate --list-subs -v --embed-thumbnail --thumbnail-dir ./ --dump-json --encoding utf-8 --ignore-errors --yes-playlist https://www.youtube.com/watch?v=knYmbVwfPN0\u0026amp;list=PLsz1VHK7-StNxGetWIH0uY6YQY6JspGBY  --skip-download --print-dvdfab-out --retries 2 --no-check-certificate --list-subs -v --embed-thumbnail --dump-json --encoding utf-8 --ignore-errors --yes-playlist https://www.youtube.com/watch?v=MuAGGZNfUkU\u0026amp;list=RDMM  {'_type': 'url_transparent', 'ie_key': 'Youtube', 'id': 'MuAGGZNfUkU', 'url': 'MuAGGZNfUkU', 'title': 'Hans Zimmer - Time', 'description': None, 'duration': 285.0, 'view_count': None, 'uploader': None} {'_type': 'url_transparent', 'ie_key': 'Youtube', 'id': 'MuAGGZNfUkU', 'url': 'MuAGGZNfUkU', 'title': 'Hans Zimmer - Time', 'description': None, 'duration': 285.0, 'view_count': None, 'uploader': None}  + [spreaker] Add support for spreaker.com * [vlive] Improve extraction for geo-restricted videos + [vlive] Add support for post URLs * [viki] Fix video API request * [bbc] Fix BBC Three clip extraction * [bbc] Fix BBC News videos extraction + [medaltv] Add support for medal.tv * [youtube] Imporve music metadata and license extraction * [nrk] * [cda]  "
+},
+{
+	"uri": "https://evolution-ant.github.io/philosophy/idealism/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://evolution-ant.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://evolution-ant.github.io/develop/",
+	"title": "Develops",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://evolution-ant.github.io/",
+	"title": "My New Hugo Site",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://evolution-ant.github.io/philosophy/",
+	"title": "Philosophies",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://evolution-ant.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
